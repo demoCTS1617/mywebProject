@@ -2,7 +2,7 @@
 <html>   
 <head>  
 <meta name="viewport" content="width=device-width, initial-scale=1">  
-<title> My New Login Page </title>  
+<title> My NLogin Page </title>  
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
