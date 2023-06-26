@@ -48,7 +48,7 @@ button {
     <center> <h1> My New Login Form </h1> </center>   
     <form>  
         <div class="container">   
-            <label>Username Name: </label>   
+            <label>Username : </label>   
             <input type="text" placeholder="Enter Username" name="username" required>  
             <label>Password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
